@@ -1,22 +1,39 @@
+Acta de Constitución del Proyecto (Project Charter)
+Nombre del Proyecto
 
-# Acta de Constitución del Proyecto (Project Charter)
+AlasLatinas – Plataforma de Compra de Boletos en Línea con Web 3.0 y Stellar
 
-## Nombre del Proyecto
-Desarrollo de Plataforma Educativa y Sistema de Méritos para NovaNet
+Descripción del Proyecto
 
-## Descripción del Proyecto
-Implementar una plataforma digital educativa junto con un sistema de méritos y reconocimientos para NovaNet, pensado para fomentar la participación activa y el reconocimiento de logros dentro de su comunidad de usuarios.
+Desarrollar una solución digital que permita la compra en línea de boletos de aerolíneas de forma más efectiva, rápida y segura, implementando Stellar como red de pagos en el ecosistema de la Web 3.0, garantizando mayor transparencia, reducción de costos de transacción y eficiencia en el proceso de compra.
 
-## Propósito y Justificación
-Impulsar la interacción y el **__compromiso de los miembros con NovaNet__** mediante contenidos formativos y un sistema de méritos basado en gamificación, alineado a los objetivos estratégicos de participación y retención.
+Propósito y Justificación
 
-## Objetivos
-Desarrollar módulos educativos interactivos y dinámicos  
-Diseñar un sistema de méritos digital que motive la participación  
-Incrementar la colaboración y el intercambio entre usuarios  
-Garantizar la compatibilidad del sistema con las plataformas actuales
+Optimizar la experiencia de los usuarios al adquirir boletos de avión mediante un sistema descentralizado, seguro y confiable, que reduzca tiempos y costos de operación.
+Este proyecto busca modernizar la forma en que los pasajeros interactúan con las aerolíneas, alineándose con las tendencias tecnológicas de blockchain, Web 3.0 y pagos digitales globales.
 
-## Alcance
-Incluye  
-Desarrollo de cursos en vídeo, documentos y ejercicios prácticos  
-Diseño e implementación del sistema de méritos y
+Objetivos
+
+Diseñar e implementar un sistema de compra en línea de boletos de aerolíneas basado en Web 3.0.
+
+Integrar la red Stellar como medio de pago ágil y descentralizado.
+
+Mejorar la eficiencia en la gestión de transacciones, reduciendo costos operativos.
+
+Garantizar la seguridad y trazabilidad en cada compra realizada.
+
+Incrementar la confianza y satisfacción de los usuarios en la plataforma.
+
+Alcance
+
+Incluye:
+
+Desarrollo de la interfaz web intuitiva y accesible para la compra de boletos.
+
+Implementación de pagos con Stellar (XLM) y contratos inteligentes.
+
+Integración con bases de datos de aerolíneas para disponibilidad en tiempo real.
+
+Sistema de confirmación y emisión digital de boletos.
+
+Medidas de seguridad y validación en blockchain para evitar fraudes.
